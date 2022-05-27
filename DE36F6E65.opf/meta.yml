@@ -1,0 +1,22 @@
+id: DE36F6E65
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T07:05:59+00:00'
+last_modified: '2022-05-27T15:14:58.758689+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    7b90:
+      image_group_id: I1PD95909
+      title: མདོ་ཀུན་ལས་བཏུས་པའི་དོན་བསྡུས་པ།
+      total_pages: 1902
+      order: 64
+      base_file: 7b90.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
